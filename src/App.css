@@ -1,0 +1,22 @@
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  background-color: purple;
+  margin: 0;
+ }
+ 
+ nav li {
+  margin-right: 10px;
+ }
+ 
+ nav a {
+  text-decoration: none;
+  color: white;
+  padding: 10px 20px;
+  display: block;
+ }
+ 
+ nav a:hover {
+  background-color: #4b4472;
+ }
